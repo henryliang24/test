@@ -1,0 +1,15 @@
+Open "Website" Folder
+Copy Path like C:\Users\User\Desktop\Website
+Go to RUN and type"cmd",Paste this path
+eg.cd C:\Users\User\Desktop\Website
+type "git init"			-Git co sa tin myee.
+type "git status"			-lat shi a chay a nay pya pay tar.
+type "git add . "			-File tway arr lone co htae tar
+type "git commit -m"First" "		-Comment pay tar.
+type "git status"       		-Git latt shi a chay a nay co pya tar.
+type "git log"			-Git History pya tar.
+type "git remote add origin https://....."-na go shi tae Git account htal lann kyaung pay tar.
+type "git push -u origin master"            -pay pee tae account htal push tar.
+type "git pull origin master"      	-Git file tway co computer htal swal cha tar.
+type "git clone original link"		-Git file tway co clone a nay nak swal cha tar.
+'*.txt' (*=All)
